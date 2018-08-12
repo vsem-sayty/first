@@ -1,7 +1,7 @@
 body{
 	max-width:99vw;
 }
-
+/* Комментарий, вернул видимость */
 .pre{
-	display: none;
+	display: block;
 }
